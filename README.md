@@ -31,3 +31,32 @@ A implementação dessas ferramentas vai resultar em uma consideravel redução 
 
 Assinatura do Responsável pelo Projeto:
 Felipe Castrillo Pereira Castelini
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 03/06/2024
+Empresa: Abstergo Industries
+Responsável: Felipe Castrillo Pereira Castelini
+
+Introdução
+Este relatório descreve a implementação de 3 medidas de segurança na Abstergo Industries, usando serviços da AWS para aumentar a segurança da empresa.
+
+Descrição do Projeto
+Medida 1: Habilitação de Multi-Factor Authentication (MFA)
+Caso de uso:
+Adicionar uma camada extra de segurança exigindo uma segunda forma de autenticação além da senha para todos os usuários.
+
+Medida 2: Implementação do AWS Key Management Service (KMS)
+Caso de uso:
+Gerenciar e controlar chaves criptográficas para criptografar dados sensíveis, garantindo a confidencialidade e a integridade das informações.
+
+Medida 3: Automação de Verificação de Vulnerabilidades com Amazon Inspector
+Caso de uso:
+Realizar varreduras automáticas em instâncias EC2 para identificar e corrigir vulnerabilidades de segurança.
+
+Conclusão
+Essas medidas aumentaram a segurança da Abstergo Industries, protegendo contra acessos não autorizados, garantindo a segurança dos dados e mantendo a infraestrutura protegida contra ameaças.
+
+Assinatura do Responsável pelo Projeto:
+Felipe Castrillo Pereira Castelini
